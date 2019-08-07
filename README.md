@@ -1,4 +1,4 @@
-
+[![Quality Gate](https://sonarcloud.io/api/badges/gate?key=space-game-web-1)](https://sonarcloud.io/dashboard/index/space-game-web-1)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
